@@ -1,0 +1,12 @@
+This folder contains all screenshots for the project. Each screenshot is named according to its content for easy access and clarity.
+
+## Screenshot Index
+
+- `ui-tutorials-list.png` — Tutorials List View (main list, search, details)
+- `ui-add-tutorial.png` — Add Tutorial View (form for new tutorial)
+- `cicd-github-actions.png` — GitHub Actions CI/CD pipeline runs and workflow status
+- `dockerhub-repos.png` — Docker Hub repositories for frontend and backend images
+
+To view a screenshot, simply open the corresponding file in this folder.
+
+**Note:** No screenshots are embedded in the main README.md. All images are stored here for direct access.
