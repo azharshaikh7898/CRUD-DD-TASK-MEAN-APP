@@ -71,25 +71,27 @@ This project includes a GitHub Actions workflow for CI/CD, which builds, pushes 
 
 Below are key screenshots demonstrating the application and infrastructure:
 
-### 1. GitHub Actions CI/CD Pipeline
-Shows the workflow runs and status for automated build, push, and deployment.
 
-![GitHub Actions CI/CD](screenshots/cicd-github-actions.png)
+### Add Tutorial View
+A simple form for adding a new tutorial, including fields for title and description.
 
-### 2. Docker Hub Repositories
-Displays the Docker Hub account with pushed images for frontend and backend containers.
+![Add Tutorial View](screenshots/ui-add-tutorial.png)
 
-![Docker Hub Repositories](screenshots/dockerhub-repos.png)
-
-### 3. Tutorials List View
-Main UI showing the tutorials list, search, and details panel for a selected tutorial.
+### Tutorials List View
+Displays the list of tutorials, search functionality, and details for a selected tutorial.
 
 ![Tutorials List View](screenshots/ui-tutorials-list.png)
 
-### 4. Add Tutorial View
-Form for adding a new tutorial, including title and description fields.
+### CI/CD Pipeline Success
+Shows a successful GitHub Actions workflow run for automated deployment.
 
-![Add Tutorial View](screenshots/ui-add-tutorial.png)
+![CI/CD Pipeline Success](screenshots/cicd-github-actions.png)
+
+### Docker Hub Repositories
+Shows Docker Hub with pushed images for frontend and backend containers.
+
+![Docker Hub Repositories](screenshots/dockerhub-repos.png)
+
 
 
 ---
